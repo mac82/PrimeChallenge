@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BryjChallenge</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_shop">Shop</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_bag">Bag</string>
+</resources>
